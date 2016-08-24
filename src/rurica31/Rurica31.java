@@ -10,6 +10,8 @@ public class Rurica31 {
         System.out.println("*************************");
         System.out.println("*          Menu         *");
         System.out.println("*************************");
+        System.out.println("1.- Hola Mundo");
+        System.out.println("2.- Adios Mundo");
     }
     
 }
