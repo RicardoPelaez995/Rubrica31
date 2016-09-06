@@ -13,6 +13,8 @@ public class Rurica31 {
         System.out.println("1.- Hola Mundo");
         //no entiendo porque sale error en travis
         System.out.println("2.- Adios Mundo");
+         System.out.println("¿QUE DEBO HACER?");
+        
     }
     
 }
